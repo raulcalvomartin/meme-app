@@ -45,9 +45,15 @@
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
-	<key>UIRequiredDeviceCapabilities</key>
+	<key>NSCameraUsageDescription</key>
+	<string>Allow camera usage</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Access photo library</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Save meme before sharing</string>
+	<key>UIAppFonts</key>
 	<array>
-		<string>armv7</string>
+		<string>Impact.ttf</string>
 	</array>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
